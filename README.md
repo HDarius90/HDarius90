@@ -8,7 +8,7 @@ I'm a JavaSscript and React developer specializing in frontend tools. Passionate
 
 * 🌍  I'm based in Budapest
 * 🖥️  See my portfolio at [here](https://hdarius90.github.io/)
-* ✉️  You can contact me at [hadjidari@gmail.com](mailto:hadjidari@gmail.com)
+* ✉️  You can contact me at [hadjidari@gmail.com](mailto:darius.hadjati@gmail.com)
 * 🚀  I'm currently working on [E-commerce app](http://crwn-clothing-dari.netlify.app/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
