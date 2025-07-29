@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a JavaSscript and React developer specializing in frontend tools. Passionate about crafting clean, efficient, and user-friendly interfaces.
+I'm a JavaScript and React developer specializing in frontend tools. Passionate about crafting clean, efficient, and user-friendly interfaces.
 
 * 🌍  I'm based in Budapest
 * 🖥️  See my portfolio at [here](https://hdarius90.github.io/)
