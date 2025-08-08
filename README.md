@@ -9,7 +9,7 @@ I'm a JavaScript and React developer specializing in frontend tools. Passionate 
 * 🌍  I'm based in Budapest
 * 🖥️  See my portfolio at [here](https://hdarius90.github.io/)
 * ✉️  You can contact me at [darius.hadjati@gmail.com](mailto:darius.hadjati@gmail.com)
-* 🚀  I'm currently working on [E-commerce app](http://crwn-clothing-dari.netlify.app/)
+* 🚀  I'm currently working on [E-commerce app](https://darius-instruments-omega.vercel.app/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a Guitar Hero
